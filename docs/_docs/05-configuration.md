@@ -926,10 +926,10 @@ Used as the defaults for defining what appears in the author sidebar.
 
 ```yaml
 author:
-  name     : "Your Name"
+  name     : "Bach Regnskab"
   avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
-  location : "Somewhere, USA"
+  bio      : "Din lokale regnskabspartner – kompetent, tilgængelig og engageret. Professionelt regnskab med tid til mennesker og fokus på din virksomhed."
+  location : "Hjallerup"
   fediverse: "@you@instance.social"
 ```
 
